@@ -34,11 +34,11 @@ export class MolpayPage {
       'mp_currency': 'MYR',
       'mp_country': 'MY',
       'mp_verification_key': '',
-      'mp_channel': '',
+      'mp_channel': 'multi',
       'mp_bill_description': 'Test MOLPay',
       'mp_bill_name': 'molpay',
       'mp_bill_email': 'email@email.com',
-      'mp_bill_mobile': '',
+      'mp_bill_mobile': '+60123456789',
       // 'mp_channel_editing' : false,
       // 'mp_editing_enabled' : false,
       // 'mp_transaction_id' : '', // Optional, required when mp_request_type is 'Status'
@@ -60,7 +60,7 @@ export class MolpayPage {
       // 'mp_bill_mobile_edit_disabled': true, // Optional, explicitly force disable billing mobile edit.
       // 'mp_bill_description_edit_disabled': true, // Optional, explicitly force disable billing description edit.
       // 'mp_language': 'EN', // Optional, EN, MS, VI, TH, FIL, MY, KM, ID, ZH.
-      // 'mp_dev_mode': false // Optional, enable for online sandbox testing.
+      'mp_dev_mode': true // Optional, enable for online sandbox testing.
     };
     var callback = function(response){
       tNavCtrl.pop();
