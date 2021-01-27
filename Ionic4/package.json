@@ -30,7 +30,7 @@
     "cordova-save-image-gallery": "0.0.26",
     "core-js": "^2.5.4",
     "molpay-mobile-cordova-privacyscreen": "^1.0.0",
-    "molpay-mobile-xdk-cordova": "^3.27.1",
+    "molpay-mobile-xdk-cordova": "^3.29.0",
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
@@ -67,7 +67,6 @@
   "description": "An Ionic project",
   "cordova": {
     "plugins": {
-      "molpay-mobile-xdk-cordova": {},
       "cordova-plugin-whitelist": {},
       "cordova-plugin-statusbar": {},
       "cordova-plugin-device": {},
@@ -75,7 +74,8 @@
       "cordova-plugin-ionic-webview": {
         "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
       },
-      "cordova-plugin-ionic-keyboard": {}
+      "cordova-plugin-ionic-keyboard": {},
+      "molpay-mobile-xdk-cordova": {}
     },
     "platforms": [
       "android"
