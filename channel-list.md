@@ -35,6 +35,7 @@
 | OCBC Online | ocbc | FPX_OCBC |
 | FPX_EMANDATE | FPX_EMANDATE | FPX_EMANDATE |
 | FPX_DIRECTDEBIT | FPX_DIRECTDEBIT | | Obsolete
+| Agrobank Online | fpx_agrobank | FPX_AGROBANK |
 
 # FPX B2B (17)
 | Channel name | mp_channel | Endpoint Label | Remarks
