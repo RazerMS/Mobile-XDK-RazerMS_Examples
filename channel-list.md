@@ -15,7 +15,6 @@
 # FPX (20)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
-| FPX | fpx | | Obsolete
 | Maybank2u | maybank2u | FPX_MB2U |
 | Alliance online | FPX_ABMB | FPX_ABMB |
 | i-Rakyat | FPX_BKRM | FPX_BKRM |
@@ -33,9 +32,10 @@
 | affinOnline | abb | FPX_ABB |
 | i-Muamalat | muamalat | FPX_BMMB |
 | OCBC Online | ocbc | FPX_OCBC |
+| Agrobank Online | fpx_agrobank | FPX_AGROBANK |
 | FPX_EMANDATE | FPX_EMANDATE | FPX_EMANDATE |
 | FPX_DIRECTDEBIT | FPX_DIRECTDEBIT | | Obsolete
-| Agrobank Online | fpx_agrobank | FPX_AGROBANK |
+| FPX | fpx | | Obsolete
 
 # FPX B2B (17)
 | Channel name | mp_channel | Endpoint Label | Remarks
@@ -65,39 +65,39 @@
 | Petronas | epay | Cash-epay |
 | Esapay Cash Retail | esapay | Cash-Esapay |
 | Union Pay | paymentasia | UPOP |
-| Tenpay | tenpay | | Obsolete
-| MOLWallet | MOLWallet | | Obsolete
 | Unionpay | Unionpay | UPOP |
 | MOLPoints | MOLPoints | MOLPoints |
 | Touch n Go - E-Wallet | TNG-EWALLET | TNG-EWALLET |
 | Boost | BOOST | BOOST |
-| VCASH-EWALLET | VCASH_EW | | unreachable
-| WeChatPay | WeChatPay | | Unreachable
 | WeChatPayMY | WeChatPayMY | WeChatPayMY |
 | Maybank QRPay | MB2U_QRPay-Push | MB2U_QRPay-Push |
 | GrabPay | GrabPay | GrabPay |
 | RazerPay | RazerPay | RazerPay |
 | ShopeePay | ShopeePay | ShopeePay |
+| Tenpay | tenpay | | Obsolete
+| MOLWallet | MOLWallet | | Obsolete
+| VCASH-EWALLET | VCASH_EW | | Obsolete
+| WeChatPay | WeChatPay | | Obsolete
 
 # Cash (9)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | 7-Eleven | cash | Cash-711 |
 | 99Speedmart | cash99 | Cash-99SM |
-| Webcash | webcash | | Unreachable
-| CDC EP Center | Cash-CDCEP | | Obsolete
 | Maybank Cash Deposit Machine | Cash-MBBCDM | Cash-MBBCDM |
 | Maybank ATM | Cash-MBBATM | Cash-MBBATM |
 | jompay | jompay | jompay |
 | Cash-Deposit | Cash-Deposit | Cash-Deposit |
 | CIMB Virtual Account | CIMB-VA | CIMB-VA |
+| Webcash | webcash | | Obsolete
+| CDC EP Center | Cash-CDCEP | | Obsolete
 
 # Other (6)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | Point BCard | pointbcard | | Obsolete
 | Fuiou | fuiou | | Obsolete
-| Online Banking | onlinebanking | | Unreachable
+| Online Banking | onlinebanking | | Obsolete
 | Gift Card | giftcard | | Obsolete
 | BitX | BitX | | Obsolete
 | SafeCharge | SafeCharge | | Obsolete
