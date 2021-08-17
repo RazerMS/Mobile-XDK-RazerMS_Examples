@@ -2,8 +2,6 @@ import { Component } from '@angular/core';
 import { NavController, Platform } from 'ionic-angular';
 import { MolpayPage } from '../molpay/molpay';
 
-declare var molpay;
-
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
