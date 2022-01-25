@@ -2,8 +2,8 @@
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
 | Visa / Mastercard	| credit |  ALB-Paymex |
+| Visa / Mastercard	| credit10 | CIMB eBPG | 
 | Credit Card | credit3 | | Obsolete
-| CIMB eBPG	| CIMB-eBPG | | Obsolete
 | AMBANK eBPG | AMBANK-eBPG | | Obsolete
 | AmBank Payment Gateway Visa / Master | credit8 | | Obsolete
 
