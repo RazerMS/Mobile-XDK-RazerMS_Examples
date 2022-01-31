@@ -72,8 +72,8 @@
 | WeChatPayMY | WeChatPayMY | WeChatPayMY |
 | Maybank QRPay | MB2U_QRPay-Push | MB2U_QRPay-Push |
 | GrabPay | GrabPay | GrabPay |
-| RazerPay | RazerPay | RazerPay |
 | ShopeePay | ShopeePay | ShopeePay |
+| RazerPay | RazerPay | RazerPay | Obsolete
 | Tenpay | tenpay | | Obsolete
 | MOLWallet | MOLWallet | | Obsolete
 | VCASH-EWALLET | VCASH_EW | | Obsolete
