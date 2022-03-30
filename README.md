@@ -15,6 +15,17 @@ Below is the recommended ways to download/clone the repo to speed up or reduce t
 3) curl https://codeload.github.com/RazerMS/rms-mobile-xdk-examples/tar.gz/master | tar -xz --strip=2 rms-mobile-xdk-examples-master/(TARGETED_FOLDER)
 ```
 
+
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
+
 Issues
 ------------
 
