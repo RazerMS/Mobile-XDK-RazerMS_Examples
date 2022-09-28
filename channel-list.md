@@ -78,6 +78,8 @@
 | MOLWallet | MOLWallet | | Obsolete
 | VCASH-EWALLET | VCASH_EW | | Obsolete
 | WeChatPay | WeChatPay | | Obsolete
+| PayNow | PayNow | PayNow | 
+| DuitNow | RPP_DuitNowQR | RPP_DuitNow |
 
 # Cash (9)
 | Channel name | mp_channel | Endpoint Label | Remarks
