@@ -1,7 +1,0 @@
-{
-  "name": "ionic_capacitor_blank",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
